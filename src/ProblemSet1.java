@@ -9,7 +9,7 @@
 public class ProblemSet1 {	
 	
 	/**
-	 * Every Java program must have a <code>main</code> method, which is
+	 * Every Java program must have a main method, which is
 	 * where program execution begins.
 	 */
 	
