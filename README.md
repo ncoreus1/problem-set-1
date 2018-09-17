@@ -43,8 +43,7 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
 You should now see a ```Project``` in the ```Package Explorer``` in Eclipse.
 
 17. Expand the ```Project``` folder. You should see the ```JRE System Library``` folder, as well as the ```src``` folder.
-18. Expand the src folder. You should see a single source file named ```ProblemSet1.java```.
-19. Double-click the ```ProblemSet1.java``` file to open it.
+18. Expand the src folder. You should see a single source file named ```ProblemSet1.java```. Double-click to open it.
 
 If you see the following starter code, then you've correctly cloned and setup your project.
 
