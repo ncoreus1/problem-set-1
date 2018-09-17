@@ -40,6 +40,16 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
 15. Select the checkbox next to your project and click ```Finish```.
 16. Now that we've imported the Git project, we can click ```Next >```, ```Next >```, and ```Finish``` once more.
 
+You should now see a ```Project``` in the ```Package Explorer``` in Eclipse.
+
+17. Expand the ```Project``` folder. You should see the ```JRE System Library``` folder, as well as the ```src``` folder.
+18. Expand the src folder. You should see a single source file named ```ProblemSet1.java```.
+19. Double-click the ```ProblemSet1.java``` file to open it.
+
+If you see the following starter code, then you've correctly cloned and setup your project.
+
+![problem set 1 skeleton code screenshot](https://www.ucvts.tec.nj.us/cms/lib/NJ03001805/Centricity/domain/760/apcsa-images/pset1-skeleton.png)
+
 ## Exercises
 
 Problem Set 1 contains 5 exercises, each of which will be written in your ```main``` method. You'll notice that there are indicators for where the code for each exercise should be written. Please adhere to these. And perhaps most importantly, challenge yourself! I know you can copy and paste the samepl outputs or find the answers on Google. Try to work through these on your own. You'll thank me later when the exercises become far more complex and the solutions not-so-easily implemented.
